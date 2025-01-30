@@ -57,3 +57,7 @@ Sample Output 1
 
 2 1
 ```
+
+**Link**
+
+https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
