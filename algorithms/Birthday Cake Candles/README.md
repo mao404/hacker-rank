@@ -29,3 +29,7 @@ Sample Output 0
 Explanation 0
 
 Candle heights are [3,2,1,3]. The tallest candles are 3 units, and there are 2 of them.
+
+**Link**
+
+https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true
